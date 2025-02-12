@@ -4,4 +4,4 @@ Visual Demonstration: Create visual plots to compare the interpolated values wit
 
 Report Writing: Document the process and results in a LaTeX report.
 
-Overall, the project aims to provide hands-on experience with Lagrange Interpolating Polynomials, enhance understanding of numerical approximation methods, and improve skills in programming, error analysis, and technical reporting. 
+Overall, the project aims to provide hands-on experience with Lagrange Interpolating Polynomials, enhance understanding of numerical approximation methods, and improve skills in programming, error analysis, and technical reporting.  
